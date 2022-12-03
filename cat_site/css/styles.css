@@ -1,3 +1,23 @@
 body {
-  background-color: #F9F2ED
+  background-color: #F9F2ED;
+  text-align: center;
+}
+
+.tv {
+  width: 29.1em;
+  height: 32em;
+}
+
+.cat {
+  width: 10em;
+  height: 10em;
+  top: 5em;
+  position: absolute;
+}
+
+.cat-row {
+}
+
+.display {
+  position: relative;
 }
