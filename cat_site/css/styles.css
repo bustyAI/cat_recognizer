@@ -4,20 +4,39 @@ body {
 }
 
 .tv {
-  width: 29.1em;
-  height: 32em;
+  position: relative;
 }
 
-.cat {
+.cat1 {
   width: 10em;
   height: 10em;
-  top: 5em;
   position: absolute;
 }
 
-.cat-row {
+.cat2 {
+  width: 10em;
+  height: 10em;
+  margin-left: 25em;
+  position: absolute;
 }
 
-.display {
-  position: relative;
+.static {
+  width: 28.125em;
+  height: 23.1875em;
+  margin-top: 9.375em;
+  margin-left: -34.5625em;
+  position: absolute;
+}
+
+.tower1 {
+  height: 400px;
+  width: 400px;
+  margin-right: 500px;
+  margin-top: 100px;
+}
+
+.tower2 {
+  height: 400px;
+  width: 400px;
+  margin-left: 500px;
 }
